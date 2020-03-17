@@ -6,7 +6,7 @@ The [Missing Maps](http://www.missingmaps.org/) project of the [Humanitarian Ope
 
 The Missing Maps group provides excellent resources for event organizers who are planning Mapathons:
 
-Overview of resources: [http://www.missingmaps.org/host/](http://www.missingmaps.org/host/
+Overview of resources: [http://www.missingmaps.org/host/](http://www.missingmaps.org/host/)
 
 Detailed guide book: [http://www.missingmaps.org/assets/downloads/mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf](http://www.missingmaps.org/assets/downloads/mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf)
 
@@ -20,7 +20,7 @@ Two versions of the one-page guide are provided:
 
 ### What is #HOTLunch?
 
-\#HOTLunch\ is an initiative started by [Azavea](https://www.azavea.com/) to create a recurring volunteer opportunity for people around the world to contribute to HOT tasks. Volunteer your lunch break to map buildings, roads, and other features that NGOs use to plan aid efforts in response to natural disasters and humanitarian crises.
+\#HOTLunch is an initiative started by [Azavea](https://www.azavea.com/) to create a recurring volunteer opportunity for people around the world to contribute to HOT tasks. Volunteer your lunch break to map buildings, roads, and other features that NGOs use to plan aid efforts in response to natural disasters and humanitarian crises.
 
 The idea is that collectively we can accomplish a ton by refactoring our lunch break into a volunteer time.
 
